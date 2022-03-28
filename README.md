@@ -1,11 +1,11 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
-# DIY Alexa With the ESP32 and Wit.AI
+## ARTIFICIAL INTELLIGENT JERRY
+
 
 All the source code for this tutorial is in [GitHub](https://github.com/atomic14/diy-alexa)
 
 ## Introduction
 
-This tutorial will guide you through the process of creating your own DIY Alexa using the ESP32 and Wit.ai.
+
 
 There's a full video tutorial to accompany this available here:
 
