@@ -10,7 +10,10 @@ voices=(
 "Samantha"
 "Tessa"
 "Veena"
-"Victoria")
+"Victoria"
+"Little Pihu"
+)
+
 
 for i in "${voices[@]}"
 do
